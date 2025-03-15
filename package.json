@@ -21,14 +21,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/fortunate-cow-cli.git"
+    "url": "https://github.com/Alexx-Peer/fortunate-cow-cli.git"
   },
-  "author": "Your Name",
+  "author": "Alexx Peer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/your-username/fortunate-cow-cli/issues"
+    "url": "https://github.com/Alexx-Peer/fortunate-cow-cli/issues"
   },
-  "homepage": "https://github.com/your-username/fortunate-cow-cli#readme",
+  "homepage": "https://github.com/Alexx-Peer/fortunate-cow-cli#readme",
   "engines": {
     "node": ">=22.14.0"
   }
